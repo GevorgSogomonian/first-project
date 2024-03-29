@@ -1,2 +1,1 @@
-hello
-this is my first-project
+Тренировочный проект для работы с Git
